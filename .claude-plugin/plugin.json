@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Documentation quality toolkit — enforces CLAUDE.md/AGENTS.md boundaries, applies progressive disclosure, deduplicates across doc hierarchy.",
   "author": {
-    "name": "MK"
+    "name": "mistakeknot"
   },
   "license": "MIT",
   "keywords": [

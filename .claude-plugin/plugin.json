@@ -1,0 +1,20 @@
+{
+  "name": "interscribe",
+  "version": "0.1.0",
+  "description": "Documentation quality toolkit — enforces CLAUDE.md/AGENTS.md boundaries, applies progressive disclosure, deduplicates across doc hierarchy.",
+  "author": {
+    "name": "MK"
+  },
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "claude-md",
+    "agents-md",
+    "progressive-disclosure",
+    "doc-quality",
+    "refactoring"
+  ],
+  "skills": [
+    "./skills/interscribe"
+  ]
+}

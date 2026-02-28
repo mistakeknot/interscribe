@@ -1,6 +1,6 @@
 {
   "name": "interscribe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Documentation quality toolkit — enforces CLAUDE.md/AGENTS.md boundaries, applies progressive disclosure, deduplicates across doc hierarchy.",
   "author": {
     "name": "mistakeknot"

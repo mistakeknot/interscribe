@@ -1,6 +1,6 @@
 ---
 name: interscribe
-description: Documentation quality toolkit — audit doc health, refactor for progressive disclosure, consolidate duplicates. Enforces CLAUDE.md (Claude Code config only) / AGENTS.md (everything else) boundary. Use when docs feel bloated, when CLAUDE.md has project knowledge, or after major project changes.
+description: Documentation quality toolkit — audit doc health, refactor for progressive disclosure, consolidate duplicates. Enforces CLAUDE.md / AGENTS.md boundary. Use when docs feel bloated or CLAUDE.md has project knowledge.
 argument-hint: "[audit|refactor|consolidate] [path]"
 allowed-tools: Read, Edit, Write, Bash(wc *), Bash(grep *), Bash(find *), Glob, Grep
 ---
